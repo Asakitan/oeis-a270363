@@ -3,16 +3,16 @@ message: "Cite this public proof using the versioned report below."
 title: 'A Catalan parametrization certificate for the four-lag binomial-sum recurrence'
 authors:
   - family-names: "Chain.Ren"
-version: "1.0.0"
+version: "1.0.1"
 date-released: '2026-11-27'
 license: MIT
-url: https://github.com/Asakitan/oeis-a270363/releases/tag/proof-v1.0.0
+url: https://github.com/Asakitan/oeis-a270363/releases/tag/proof-v1.0.1
 repository-code: https://github.com/Asakitan/oeis-a270363
 preferred-citation:
   type: report
   title: 'A Catalan parametrization certificate for the four-lag binomial-sum recurrence'
   authors:
     - family-names: "Chain.Ren"
-  version: "1.0.0"
+  version: "1.0.1"
   year: 2026
-  url: https://github.com/Asakitan/oeis-a270363/blob/proof-v1.0.0/PROOF.md
+  url: https://github.com/Asakitan/oeis-a270363/blob/proof-v1.0.1/PROOF.md

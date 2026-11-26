@@ -2,7 +2,7 @@
 
 **署名：** Chain.Ren · 独立研究
 
-**版本：** [proof-v1.0.0](https://github.com/Asakitan/oeis-a270363/releases/tag/proof-v1.0.0) · 2026-11-27（Australia/Sydney）
+**版本：** [proof-v1.0.1](https://github.com/Asakitan/oeis-a270363/releases/tag/proof-v1.0.1) · 2026-11-27（Australia/Sydney）
 
 OpenAI Codex 实质参与推导、文稿和符号复核。
 
